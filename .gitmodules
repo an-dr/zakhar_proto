@@ -1,0 +1,9 @@
+[submodule "sw/arduino_motors/lib/hw_motors"]
+	path = sw/arduino_motors/lib/hw_motors
+	url = ../hw_motors.git
+[submodule "sw/arduino_encoder+oled/lib/RotSensor"]
+	path = sw/arduino_encoder+oled/lib/RotSensor
+	url = ../RotSensor.git
+[submodule "sw\\arduino_encoder+oled\\lib\\RotSensor"]
+	path = sw\\arduino_encoder+oled\\lib\\RotSensor
+	url = ../RotSensor.git
