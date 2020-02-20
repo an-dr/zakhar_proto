@@ -7,3 +7,6 @@
 [submodule "sw\\arduino_encoder+oled\\lib\\RotSensor"]
 	path = sw\\arduino_encoder+oled\\lib\\RotSensor
 	url = ../RotSensor.git
+[submodule "sw/arduino_motors/lib/ControlCallbacks"]
+	path = sw/arduino_motors/lib/ControlCallbacks
+	url = ../ControlCallbacks.git
