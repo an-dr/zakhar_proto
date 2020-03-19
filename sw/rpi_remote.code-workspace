@@ -1,0 +1,8 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://ssh-remote+192.168.0.210/home/pi/gihub/zakhar_proto/sw/rpi_vscode_remote_test"
+		}
+	],
+	"remoteAuthority": "ssh-remote+192.168.0.210"
+}
